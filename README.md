@@ -21,7 +21,7 @@ List of variables used in this code to configure the PostgreSQL Flexible Server:
 
 | Variable | Description | Type | 
 | --- | --- | --- | 
-| `location` | The region in which this module should be deployed | `string` | 
+| `location` | The region in which this module should be deployed | string | 
 | `company` | This variable defines the company name used to build resources | string | 
 | `app_name` | This variable defines the application name used to build resources | string | 
 | `environment` | This variable defines the environment to be built | string |
