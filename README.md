@@ -5,7 +5,7 @@
 
 Deploying an Azure Database for PostgreSQL Flexible Server with Public Access using Terraform
 
-Blog --> 
+Blog --> https://gmusumeci.medium.com/how-to-deploy-a-public-access-azure-postgresql-flexible-server-using-terraform-92c16d13456e
 
 ## Code creates:
 
