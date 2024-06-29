@@ -9,7 +9,7 @@ Blog --> https://gmusumeci.medium.com/how-to-deploy-a-public-access-azure-postgr
 
 ## Code creates:
 
-- Resource Group for Network
+- Resource Group
 - PostgreSQL Flexible Server
 - PostgreSQL Database
 - PostgreSQL Firewall Rules
